@@ -8,17 +8,19 @@
 }
 
 .footer{
-    display: flex;
-    height: 100px;
-    background-color: #dcf882;
+    background-color:#dcf882;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
 }
 
 .footer h1{
     margin-top: 0px;
    }
-
-
-
 
 
 

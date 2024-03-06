@@ -1,0 +1,24 @@
+
+body {
+    background-color: #6d6d6d;
+    font-family: Arial, sans-serif;
+}
+
+.notfound {
+    margin: 0 auto;
+    width: 80%;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.notfound h1 {
+    font-size: 4em;
+    color: #333;
+    line-height: 1.2em;
+}
+
+.notfound p {
+    font-size: 1.2em;
+    color: #ff1111;
+}
+
