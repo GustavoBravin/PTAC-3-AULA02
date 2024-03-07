@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Menu(){
 return(
-    <header className={styles.cabecalho}>
+    <header className={styles.menu}>
          <Image  
          width={100}
          height={100}
